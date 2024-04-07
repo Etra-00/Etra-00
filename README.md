@@ -3,7 +3,7 @@
    
 - 👀 I’m interested in just about everything the world of technology has to offer...
   
-- 🌱 I’m currently learning how to implement the Vulkan API into a project of mine, and soon networking!  
+- 🌱 I’m currently developing an application framework in Rust, along with a game to be used with it.  
 
 - 💞️ I’m not looking to collaborate on anything right now, as I have no experience in doing so...  Although I am happy to consider any invites!
   
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: A squirrel is currently watching you...
 
-- ☀️ Have a lovely day! (Or most likely night)
+- ☀️ Have a lovely day!
 
 <!---
 Etra-00/Etra-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
