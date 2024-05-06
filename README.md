@@ -1,13 +1,13 @@
 
 - 👋 Hi there, I’m Etra!
    
-- 👀 I’m interested in just about everything the world of technology has to offer...
+- 👀 I’m interested in just about everything the world of technology has to offer.
   
-- 🌱 I’m currently developing an application framework in Rust, along with a game to be used with it.  
+- 🌱 I’m currently developing an application framework in C++, along with a testbed game to make use of its features!
 
-- 💞️ I’m not looking to collaborate on anything right now, as I have no experience in doing so...  Although I am happy to consider any invites!
+- 💞️ I’m not looking to collaborate on anything right now, as I have no experience in doing so...  Although I am happy to consider any invites, and I'm always happy to meet others!
   
-- 📫 Feel free to reach me @etra.me@protonmail.com
+- 📫 Feel free to reach out to me: etra.me@protonmail.com
 
 - ⚡ Fun fact: A squirrel is currently watching you...
 
