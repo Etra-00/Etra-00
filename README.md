@@ -3,7 +3,7 @@
    
 - 👀 I’m interested in just about everything the world of technology has to offer.
   
-- 🌱 I’m currently developing an application framework in C++, along with a testbed game to make use of its features!
+- 🌱 I’m currently developing an application framework in C, along with a creation tool that utilizes this framework!
 
 - 💞️ I’m not looking to collaborate on anything right now, as I have no experience in doing so...  Although I am happy to consider any invites, and I'm always happy to meet others!
   
